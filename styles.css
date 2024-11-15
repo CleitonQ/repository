@@ -155,3 +155,27 @@ li:hover {
 .banner-3 {
     background-image: url('https://dcdn.mitiendanube.com/stores/003/016/288/products/microsoft_365_apps_for_business_spp-00005_1_-457bf2b9b00edfe6c816935124869499-640-0.jpg');
 }
+
+footer {
+    height: 300px;
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+span {
+    color: #fff;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.footer-navigation {
+    display: none;
+}
+
+.footer-list {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
