@@ -1,6 +1,7 @@
 Sites uteis para programação:
 https://developer.mozilla.org/pt-BR/docs/Web/HTML
 https://www.w3schools.com/
+https://color.adobe.com/pt/search?q=Primary%20colors&t=term
 
 COMO CRIAR SEU PRIMEIRO PROJETO NO GITHUB https://www.youtube.com/watch?v=iR6-3AT1WfE
 
